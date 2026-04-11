@@ -10,15 +10,13 @@
   <p align="center">
     A Technonogly agency fullstack website build in react, mui , bootstrap and nodejs 
     <br />
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react"><strong>Explore the code here »</strong></a>
-    <br />
-    <a href="https://github.com/Ujjalzaman/easy-consult-server-express-mongo"><strong>Backend code here »</strong></a>
+    <a href="https://github.com/danielTan8/Easy-Consulting-react"><strong>Explore the code here »</strong></a>
     <br />
     <a href="https://wonderful-kowalevski-8c905c.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Report Bug</a>
+    <a href="https://github.com/danielTan8/Easy-Consulting-react/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Request Feature</a>
+    <a href="https://github.com/danielTan8/Easy-Consulting-react/issues">Request Feature</a>
   </p>
 </div>
 
@@ -47,7 +45,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ujjalzaman/Easy-Consulting-react
+   git clone https://github.com/danielTan8/Easy-Consulting-react
    ```
 2. Install NPM packages
    ```sh
@@ -109,6 +107,4 @@ What you get here:
 
 ## Contact
 
-ujjal zaman - [Linkdeind](www.linkedin.com/in/ujjal-zaman)
-
-Project Link: [https://github.com/Ujjalzaman/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
+Project Link: [https://github.com/danielTan8/Easy-Consulting-react](https://github.com/danielTan8/Easy-Consulting-react)

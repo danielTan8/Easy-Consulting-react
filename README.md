@@ -105,6 +105,3 @@ What you get here:
 * Deffrent for Dasboard(Admin and User)
 * in dashboard Admin has all kinds of access(CRUD operations, add admin, manage orders and many more)
 
-## Contact
-
-Project Link: [https://github.com/danielTan8/Easy-Consulting-react](https://github.com/danielTan8/Easy-Consulting-react)
